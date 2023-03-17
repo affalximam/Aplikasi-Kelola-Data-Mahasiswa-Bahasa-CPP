@@ -8,7 +8,7 @@ Sebuah aplikasi sederhana pengelola data mahasiswa yang dibuat menggunakan Bahas
 Detail :
 
 - Jumlah Mahasiswa  = 6 orang
-- 
+
 - ID                = (1,2,3,4,5,6)
 
 Copyright ? NO COPYRIGHT!
